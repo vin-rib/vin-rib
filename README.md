@@ -10,7 +10,7 @@
   </h2>
 
   <!-- Você pode substituir a imagem abaixo por qualquer uma de sua preferência -->
-  <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" min-width="350px" max-width="450px" width="400px" align="right"/>
+  <img src="./static/vector-field.svg" min-width="350px" max-width="450px" width="400px" top= "0 px" align="right"/>
 
   <p>
     Meu nome é <strong>Vinicius Ribeiro</strong>, sou Engenheiro de Controle e Automação, atuando como Data Engineer e Data Scientist. <br>
@@ -39,7 +39,7 @@
   </h2>
 
   <!-- Substitua a imagem abaixo por outra a seu gosto -->
-  <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" min-width="350px" max-width="450px" width="400px" align="left"/>
+  <img src="./static/surface-waves.svg" min-width="350px" max-width="450px" width="400px" top= "0 px" align="left"/>
 
   <p>
     My name is <strong>Vinicius Ribeiro</strong>, a Control and Automation Engineer working as a Data Engineer and Data Scientist. 
